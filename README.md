@@ -28,5 +28,5 @@ We had a tough time managing time this weekend with our participation in this Ha
 ## Hosting👩‍🏫👩‍💻
 We learned a lot about hosting while debugging for hours which still doesn't work. But I ended up learning something I wouldn't have known before. For example: how to use Heroku CLI properly to fix deployment issues.
 
-## What's next for Show your style🔭
+## What's next for Show your style🔭 
 I believe that this web app can help improve peoples' confidence and I want to add a comment section where people can comment on the suggested post. I also want to add more features to make the users engage with the platform.
